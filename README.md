@@ -4,6 +4,8 @@ Desafio um do Ignite Rocketseat trilha de NodeJS.
 
 Sisteminha para gerenciar tarefas.
 
+OBS: Foi usado um template disponibilizado pela Rocketseat.
+
 # Como rodar ?
 
 Clonar projeto para o computador e rodar yarn install para baixar todas as dependências do projeto.
